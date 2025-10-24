@@ -1,5 +1,7 @@
 
-<center><img src = https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg alt="drawing" style="width:400px;"></center>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg" alt="HH Logo" width="400">
+</div>
 
 # <center> Анализ резюме из HeadHunter </center>
 
@@ -10,7 +12,7 @@
 4. [Установка проекта](#Установка-проекта)
 5. [Использование проекта](#Использование-проекта)
 6. [Авторы](#Авторы)
-7. [Выводы](Использование-проекта)
+7. [Выводы](#Выводы)
 
 ## Описание проекта
 
@@ -27,12 +29,14 @@
 **О структуре проекта:**
 * [image](./data/image) - папка с изображениями, необходимыми для проекта
 * [html](./data/html) - папка с html графиками, необходимыми для проекта
-* [Project-2.ipynb](./Project-1.ipynb) - jupyter-ноутбук, содержащий основной код проекта, в котором демонстрируются методы и подходы решения задачи
+* [Project-2.ipynb](./Project-2.ipynb) - jupyter-ноутбук, содержащий основной код проекта, в котором демонстрируются методы и подходы решения задачи
 
 
 ## Описание данных
 В проекте используется база данных с вакансиями HeadHunter. Структура данных представлена следующими таблицами:
-<center><img src='data/image/SQL_pj2_2_1.png'></center>
+<div align="center">
+  <img src='data/image/SQL_pj2_2_1.png'>
+</div>
 
 ## Используемые зависимости
 * Python (3.13.9):
